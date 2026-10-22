@@ -14,7 +14,7 @@ Beskriv stegen du utfort.
 
 ## Resultat
 
-Beskriv och dokumentera resultatet. Lagga bilder i `Bilder/` och lankar till dem har.
+Beskriv och dokumentera resultatet. Lägg endast bildfiler i `Bilder/` och länka till dem här.
 
 ## Reflektion
 
